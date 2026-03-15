@@ -1,0 +1,11 @@
+# Variables d'entorn sensibles
+.env
+!.env.example
+
+# Claus i certificats
+*.key
+*.pem
+kubeconfig
+
+# macOS
+.DS_Store
