@@ -16,5 +16,5 @@ it12-okd/
 
 ## Documentació
 
-Consulta el repo [okd-lab-doc](https://github.com/efornaguera/okd-lab-doc)
+Consulta el repo [okd-lab-doc](https://github.com/eforna/okd-lab-doc)
 per a guies pas a pas, notes d'instal·lació i resolució d'errors.
